@@ -19,8 +19,8 @@ liquibase:
 yobit:
     publicApiUrl:  https://yobit.io/api/3
     tradingApiUrl: https://yobit.io/tapi
-    key: CA86FC8E4B56E05F5E256582B79D6BDA
-    secretKey: 19b038913bb3bd9d6f54876efaceaec5
+    key: key
+    secretKey: secret
     fee: 0.002
     client:
         tradesHistoryLimit: 7
